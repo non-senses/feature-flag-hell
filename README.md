@@ -1,5 +1,5 @@
 
- **Challenge:**
+ # Challenge
  THERE ARE _3_ TASKS TO DO IN THIS CODE
  
  * Task ONE: Make it so every vowel in the string is replaced by a lowercase x
@@ -14,6 +14,19 @@
  
 
 
-**GOAL:**
+# GOAL
  * Make it so the feature flags can be turned on and off, independently, and that the behaviour is still respected for each task.
  * Ideally the complexity of the code should NOT increase exponentially.
+
+
+# How to send results
+- Fork this repo
+- Make your changes
+- Make a PR from your fork to my project
+
+Or, alternatively
+
+-Clone this repo
+-Make your changes
+-Build a patch
+-Send it my way over Slack or email
