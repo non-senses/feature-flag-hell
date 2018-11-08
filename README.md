@@ -30,3 +30,6 @@ Or, alternatively
 -Make your changes
 -Build a patch
 -Send it my way over Slack or email
+
+# Hint
+Since I'm a bit restless, I decided to do task One so you only need to focus on the other two tasks. I've followed the recommendations I've seen around the office, which are the guidelines we give to developers.
