@@ -48,7 +48,13 @@
 
 
 include "./stringFormatter.class.php";
+include "./advanced/use_this_only_if_you_are_a_feature_flags_expert_and_you_know_all_the_answers.php";
+
+
 
 $formatter = new StringFormatter();
 
-echo $formatter->format("This is A Funky String");
+echo $formatter->format("This is A Funky String") ."\n";
+
+
+echo "And the price would be: $" . PriceFetcher::forString($formatter->format("This is A Funky String"))."\n";
